@@ -4,15 +4,16 @@ Un sitio web estático con **atajos de teclado**, **optimización** y **recursos
 Pensado para quienes buscan mejorar su productividad, organizar su sistema y descubrir herramientas útiles.
 
 ## 📂 Estructura del proyecto
-
+```
 .
-├── index.html          # Página principal con navegación rápida             
-├── imgages/            # Imágenes del sitio  
-└── pages/              # Secciones internas  
-    ├── atajos.html  
-    ├── optimizacion.html  
-    ├── recursos.html  
-    └── faq.html  
+├── index.html # Página principal con navegación rápida
+├── images/ # Imágenes del sitio
+└── pages/ # Secciones internas
+ ├── atajos.html # Atajos de teclado
+ ├── optimizacion.html # Optimización
+ ├── recursos.html # Recursos
+ └── faq.html # Preguntas frecuentes
+```
 
 ## ✨ Secciones principales
 
